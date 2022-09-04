@@ -1,0 +1,101 @@
+*{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+   
+    
+
+}
+/* navbar section */
+.navsection{
+    background-color: rgb(243, 75, 75);
+
+}
+
+.navsection .navbar{
+    padding: 20px 10px 20px
+
+}
+
+.navsection .navlinks ul .nav-link{
+   color: #6de10d;
+   font-size: 20px;
+
+}
+
+.navsection .navlinks ul .nav-link:hover{
+    color: white;
+}
+
+/* about section */
+.aboutsection{
+    background-color: rgb(60, 60, 239);
+    justify-content: center; 
+    padding: 30px 50px 30px;
+    
+}
+
+.para{
+    color: rgb(230, 225, 225);
+    padding: 5% 8% 5%;
+    justify-content: center;
+    line-height: 2;
+}
+
+/* product section */
+
+
+.productsection{
+    text-align: center;
+    background-color: #6de10d;
+    /* margin: 60px; */
+    padding: 55px 20px 45px;
+   
+}
+
+
+.productsection iframe{
+    padding: 2% 3%;
+    /* overflow: hidden; */
+
+}
+
+
+/* service section */
+#services{
+    background-color: gray;
+}
+
+
+.service-column{
+    padding: 2% 3%;
+}
+
+.card-body{
+    background-color: black;
+    padding: 5px 2px 5px;
+    
+}
+
+.card-body p{
+    color: rgb(207, 189, 189);
+}
+
+/* contactus section*/
+.contactus{
+    padding: 7px 7px 5px;
+    background-color: #6de10d;
+}
+
+.contactus .col{
+    padding: 5px;
+}
+
+
+
+#footer{
+    padding: 5px;
+    background-color: whitesmoke;
+}
+
+
